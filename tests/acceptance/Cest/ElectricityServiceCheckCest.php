@@ -33,5 +33,6 @@ class ElectricityServiceCheckCest
 
         //logout
         //$logoutController->logout($I);
+Its a bug
     }*/
 }
