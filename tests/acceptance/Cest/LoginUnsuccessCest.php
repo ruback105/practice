@@ -1,8 +1,8 @@
 <?php
 
-namespace cests;
+namespace Cest;
 
-use \controllers\LoginController;
+use Controller\LoginController;
 
 class LoginUnsuccessCest
 {

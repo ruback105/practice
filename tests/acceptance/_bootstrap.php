@@ -1,7 +1,7 @@
 <?php
 
-Codeception\Util\Autoload::addNamespace('', 'tests\acceptance\pages');
+Codeception\Util\Autoload::addNamespace('', 'tests\acceptance\Page');
 
-Codeception\Util\Autoload::addNamespace('', 'tests\acceptance\controllers');
+Codeception\Util\Autoload::addNamespace('', 'tests\acceptance\Controller');
 
-Codeception\Util\Autoload::addNamespace('', 'tests\acceptance\cests');
+Codeception\Util\Autoload::addNamespace('', 'tests\acceptance\Cest');

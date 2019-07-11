@@ -1,7 +1,6 @@
-<?php
-namespace controllers;
-use \pages\MainPage;
-//include "tests\acceptance\pages\MainPage.php";
+﻿<?php
+namespace Controller;
+use Page\MainPage;
 
 class HeaderController
 {

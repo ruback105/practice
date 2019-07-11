@@ -1,8 +1,8 @@
-<?php
+﻿<?php
 
-namespace controllers;
+namespace Controller;
 
-use pages\MainPage;
+use Page\MainPage;
 
 class DashboardController
 {

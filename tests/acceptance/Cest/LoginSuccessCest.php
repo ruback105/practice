@@ -1,11 +1,11 @@
 <?php
 
-namespace cests;
+namespace Cest;
 
-use controllers\LoginController;
-use controllers\HeaderController;
-use controllers\DashboardController;
-use controllers\LogoutContoller;
+use Controller\LoginController;
+use Controller\HeaderController;
+use Controller\DashboardController;
+use Controller\LogoutContoller;
 
 class LoginSuccessCest
 {
