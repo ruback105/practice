@@ -9,7 +9,7 @@ use \controllers\SectionController;
 
 class ElectricityServiceCheckCest
 {
-    public function ElectricityServiceTest(\WebGuy $I)
+   /* public function ElectricityServiceTest(\WebGuy $I)
     {
         //all controllers
         $loginController = new LoginController();
@@ -33,5 +33,5 @@ class ElectricityServiceCheckCest
 
         //logout
         //$logoutController->logout($I);
-    }
+    }*/
 }
