@@ -1,0 +1,18 @@
+paths:
+    tests: tests
+    output: tests/_output
+    data: tests/_data
+    support: tests/_support
+    envs: tests/_envs
+actor_suffix: Tester
+extensions:
+    enabled:
+        - Codeception\Extension\RunFailed
+#        - BookIt\Codeception\TestRail\Extension
+#        config:
+#            BookIt\Codeception\TestRail\Extension:
+#                enabled: true                           # When false, don't communicate with TestRail (optional; default: true)
+#                user: 'arturs.pusko@tet.lv'            # A TestRail user (required)
+#                apikey: 'pRlEy7D7BdbKfuNX2LEQ-j6vULD9UcuzzURDim19b'                # A TestRail API Key (required)
+#                url: 'https://saltomax.testrail.io'       # The base URL for you TestRail Instance
+#                project: 4
