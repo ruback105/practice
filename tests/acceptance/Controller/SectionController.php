@@ -1,12 +1,12 @@
-<?php
+﻿<?php
 
 
-namespace controllers;
+namespace Controller;
 
 
 use Monolog\Handler\FingersCrossed\ErrorLevelActivationStrategy;
-use pages\ElectricityServicesPage;
-use pages\BillPage;
+use Page\ElectricityServicesPage;
+use Page\BillPage;
 use PHPUnit\Framework\Exception;
 
 class SectionController

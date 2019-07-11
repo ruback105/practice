@@ -1,11 +1,11 @@
-<?php
+﻿<?php
 
-namespace controllers;
+namespace Controller;
 
 use Codeception\Exception\ModuleException;
 use Codeception\Step\Argument\PasswordArgument;
-use \pages\MansTetPage;
-use \pages\LoginPage;
+use Page\MansTetPage;
+use Page\LoginPage;
 
 class LoginController
 {

@@ -1,8 +1,7 @@
 <?php
-namespace controllers;
-use \pages\MainPage;
+namespace Controller;
+use Page\MainPage;
 
-//include "tests\acceptance\pages\MainPage.php";
 
 class LogoutContoller
 {
