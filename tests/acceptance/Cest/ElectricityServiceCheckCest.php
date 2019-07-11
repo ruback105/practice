@@ -33,6 +33,6 @@ class ElectricityServiceCheckCest
 
         //logout
         //$logoutController->logout($I);
-
+        CHI SHO ETO PROVERKA
     }*/
 }
