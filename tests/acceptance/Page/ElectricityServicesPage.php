@@ -1,7 +1,6 @@
 <?php
 
-
-namespace pages;
+namespace Page;
 
 
 class ElectricityServicesPage

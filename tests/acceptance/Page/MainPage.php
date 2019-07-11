@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 
-namespace pages;
+namespace Page;
 
 class MainPage
 {
